@@ -1,0 +1,67 @@
+.App {
+  font-family: sans-serif;
+  width: 100vw;
+  min-height: 100vh;
+  background-image: url("ba2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  z-index: 1;
+  position: relative;
+}
+
+
+
+  
+.bu1 {
+ 
+  margin-right: 10px;
+  width: 180px;
+  height: 180px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-color: #16c1ec;
+  background-image: url("bu1.png"); 
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-position: center; 
+  padding-left: 20px; 
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+.bu1:hover {
+  background-color: #12dee6;
+}
+
+.bu2 {
+  
+  
+  width: 180px;
+  height: 180px;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  background-color: #16c1ec;
+  background-image: url("bu2.png"); 
+  background-size: 150px 150px;
+  background-repeat: no-repeat;
+  background-position: center; 
+  padding-left: 20px; 
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+.bu2:hover {
+  background-color: #11a75e;
+}
+
